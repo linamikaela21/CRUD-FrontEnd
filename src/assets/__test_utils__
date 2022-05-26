@@ -1,0 +1,24 @@
+export const dataSelector = {
+  projects: [
+    {
+      id: 'f4e7440e-2a38-4a32-858b-074477469068',
+      name: 'Agustinaaaaaaa',
+      description: 'una descripcion',
+      manager: 'Maxi',
+      assigned: 'Kyra',
+      status: 'Done',
+      date: '2022-05-14',
+    },
+  ],
+  project: {
+    id: 'ccd6d38c-af70-4d1c-86c6-dafc099c48ea',
+    name: 'Agu',
+    description: 'una descripcion',
+    manager: 'Lali',
+    assigned: 'July',
+    status: 'withoutStatus',
+    date: '2022-05-25',
+  },
+  show: true,
+  modalShow: false,
+};
